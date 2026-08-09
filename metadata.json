@@ -1,0 +1,6 @@
+{
+  "name": "TeenWork",
+  "description": "Safe, age-appropriate part-time work opportunities for teenagers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
